@@ -1,4 +1,4 @@
-[![An image of @lunarisnia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lunarisnia)](https://holopin.io/@lunarisnia)
+<!--[![An image of @lunarisnia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lunarisnia)](https://holopin.io/@lunarisnia) -->
 
 <!--
 **Lunarisnia/Lunarisnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
